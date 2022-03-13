@@ -1,6 +1,6 @@
 # Facial-EMG-and-Kinematics
 
-## WORK IN PROGRESS
+## Introduction
 
 Studying facial muscle activation and their relationship with facial kinematics via facial landmarks. Utilizes an Arduino to generate a square wave with a specific duty cycle 
 and frequency and synchronously trigger EMG and image acquisition.
