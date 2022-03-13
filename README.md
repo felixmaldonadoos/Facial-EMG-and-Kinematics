@@ -17,6 +17,9 @@ This repo is meant for me to track my progress in analyzing and structuring a cl
   
  ## trigger.ino
   Hardware trigger for synchronized data acquisition between Delsys and Basler camera. EMG is triggered by analog signal and camera by digital signal at 100 Hz. Code is easily modified for other devices or any number of devices. 
+ 
+ ## original.ipynb
+  Do not use. I keep this for timekeeping of original processing taken without any functions. fully manual, bad practice:$. 
   
  ## /data
   Sample EMG and facial landmark datasets. Some are cleaner than others. 
